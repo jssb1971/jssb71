@@ -1,0 +1,10 @@
+{
+  "name": "Filmmodu",
+  "description": "Filmmodu.vip film kaynağı",
+  "author": "jssb1971",
+  "version": 1,
+  "language": "tr",
+  "url": "https://www.filmmodu.vip",
+  "className": "FilmmoduProvider",
+  "type": "movie"
+}
