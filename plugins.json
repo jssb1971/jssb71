@@ -1,0 +1,12 @@
+{
+  "name": "jssb1971 CloudStream Eklentileri",
+  "description": "Filmmodu ve diğer özel kaynaklar",
+  "manifestVersion": 1,
+  "plugins": [
+    {
+      "name": "Filmmodu",
+      "version": 1,
+      "url": "Filmmodu/manifest.json"
+    }
+  ]
+}
